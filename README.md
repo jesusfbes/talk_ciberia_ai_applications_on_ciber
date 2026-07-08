@@ -1,2 +1,9 @@
 # talk_ciberia_ai_applications_on_ciber
-Repository for talk in CiberAI summer course
+Repositorio para la ponencia en el Curso de Verano de la Universidad Complutense y Universidad San Jorge: [2212 CIBERIA: El papel de la inteligencia artificial en la ciberseguridad](https://drive.google.com/file/d/1FSoERkYC-AcJZ1AbQP_Nq3FWMOm-stgP/view)
+
+## Ponencia: Aplicaciones de IA en Ciberseguridad.
+Una aproximación conceptual al uso y despliegue de soluciones inteligentes en el ámbito de la protección
+digital. El contenido aborda los beneficios fundamentales de integrar la IA en los sistemas de defensa,
+mejorando de forma global la capacidad de respuesta y la gestión diaria de las amenazas informáticas.
+
+
