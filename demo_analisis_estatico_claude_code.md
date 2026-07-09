@@ -1,4 +1,4 @@
-# Demo en vivo: análisis de seguridad de un repo real con Claude Code
+# Ejercicio: análisis de seguridad de un repo real con Claude Code
 
 ## Idea
 
