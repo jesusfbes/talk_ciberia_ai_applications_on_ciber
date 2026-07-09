@@ -6,4 +6,6 @@ Una aproximación conceptual al uso y despliegue de soluciones inteligentes en e
 digital. El contenido aborda los beneficios fundamentales de integrar la IA en los sistemas de defensa,
 mejorando de forma global la capacidad de respuesta y la gestión diaria de las amenazas informáticas.
 
+- [Presentación](https://github.com/jesusfbes/talk_ciberia_ai_applications_on_ciber/blob/19a2f0ca9785b7551910f6105c03af687b2f871c/ciberia_ai_en_cyber.pdf)
 
+- Ejercicio práctico de análisis estático con la skill '/security-review' claude code. [Ejercicio](https://github.com/jesusfbes/talk_ciberia_ai_applications_on_ciber/blob/6955a95f32643aa2d945b3ee11ee109c1cb7bd6e/demo_analisis_estatico_claude_code.md)
